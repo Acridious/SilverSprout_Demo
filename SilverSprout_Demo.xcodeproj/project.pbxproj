@@ -7,18 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B22674F52A07B72B00DC3742 /* CheckUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = B22674F42A07B72B00DC3742 /* CheckUser.swift */; };
 		B25A96562A038FAE009B2226 /* SilverSprout_DemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25A96552A038FAE009B2226 /* SilverSprout_DemoApp.swift */; };
 		B25A96582A038FAE009B2226 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25A96572A038FAE009B2226 /* ContentView.swift */; };
 		B25A965A2A038FB0009B2226 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B25A96592A038FB0009B2226 /* Assets.xcassets */; };
 		B25A965D2A038FB0009B2226 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B25A965C2A038FB0009B2226 /* Preview Assets.xcassets */; };
+		B25A966C2A039C08009B2226 /* SetUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25A966B2A039C08009B2226 /* SetUp.swift */; };
+		B25A966E2A039D93009B2226 /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25A966D2A039D93009B2226 /* HomePage.swift */; };
+		B25A96702A039E47009B2226 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25A966F2A039E47009B2226 /* Profile.swift */; };
+		B25A96722A03B4A1009B2226 /* AddStation.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25A96712A03B4A1009B2226 /* AddStation.swift */; };
+		B25A96762A040FEA009B2226 /* Ubuntu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B25A96752A040FEA009B2226 /* Ubuntu-Regular.ttf */; };
+		B25AE3FA2A0E5169006D311C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = B25AE3F92A0E5169006D311C /* GoogleService-Info.plist */; };
+		B262519F2A0550ED00015DE1 /* CalculateWateringDays.swift in Sources */ = {isa = PBXBuildFile; fileRef = B262519E2A0550ED00015DE1 /* CalculateWateringDays.swift */; };
+		B29296102A11FCBD009AB96C /* ModeRoutine.swift in Sources */ = {isa = PBXBuildFile; fileRef = B292960F2A11FCBD009AB96C /* ModeRoutine.swift */; };
+		B29296122A11FCC7009AB96C /* ModeManual.swift in Sources */ = {isa = PBXBuildFile; fileRef = B29296112A11FCC7009AB96C /* ModeManual.swift */; };
+		B2C0E0152A04FBE900336499 /* Rokkitt-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B2C0E0142A04FBE900336499 /* Rokkitt-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B22674F42A07B72B00DC3742 /* CheckUser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckUser.swift; sourceTree = "<group>"; };
 		B25A96522A038FAE009B2226 /* SilverSprout_Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SilverSprout_Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B25A96552A038FAE009B2226 /* SilverSprout_DemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SilverSprout_DemoApp.swift; sourceTree = "<group>"; };
 		B25A96572A038FAE009B2226 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B25A96592A038FB0009B2226 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B25A965C2A038FB0009B2226 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B25A966B2A039C08009B2226 /* SetUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetUp.swift; sourceTree = "<group>"; };
+		B25A966D2A039D93009B2226 /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
+		B25A966F2A039E47009B2226 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		B25A96712A03B4A1009B2226 /* AddStation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddStation.swift; sourceTree = "<group>"; };
+		B25A96752A040FEA009B2226 /* Ubuntu-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Ubuntu-Regular.ttf"; path = "../../Downloads/Ubuntu/Ubuntu-Regular.ttf"; sourceTree = "<group>"; };
+		B25A96772A0411D3009B2226 /* SilverSprout-Demo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "SilverSprout-Demo-Info.plist"; sourceTree = SOURCE_ROOT; };
+		B25AE3F92A0E5169006D311C /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		B262519E2A0550ED00015DE1 /* CalculateWateringDays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateWateringDays.swift; sourceTree = "<group>"; };
+		B292960F2A11FCBD009AB96C /* ModeRoutine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModeRoutine.swift; sourceTree = "<group>"; };
+		B29296112A11FCC7009AB96C /* ModeManual.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModeManual.swift; sourceTree = "<group>"; };
+		B2C0E0142A04FBE900336499 /* Rokkitt-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Rokkitt-Regular.ttf"; path = "../../Downloads/Rokkitt/static/Rokkitt-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,7 +58,18 @@
 		B25A96492A038FAE009B2226 = {
 			isa = PBXGroup;
 			children = (
+				B25A96752A040FEA009B2226 /* Ubuntu-Regular.ttf */,
+				B2C0E0142A04FBE900336499 /* Rokkitt-Regular.ttf */,
+				B29296112A11FCC7009AB96C /* ModeManual.swift */,
+				B292960F2A11FCBD009AB96C /* ModeRoutine.swift */,
+				B22674F42A07B72B00DC3742 /* CheckUser.swift */,
+				B262519E2A0550ED00015DE1 /* CalculateWateringDays.swift */,
+				B25A96712A03B4A1009B2226 /* AddStation.swift */,
+				B25A966F2A039E47009B2226 /* Profile.swift */,
+				B25A966D2A039D93009B2226 /* HomePage.swift */,
+				B25A966B2A039C08009B2226 /* SetUp.swift */,
 				B25A96542A038FAE009B2226 /* SilverSprout_Demo */,
+				B25AE3F92A0E5169006D311C /* GoogleService-Info.plist */,
 				B25A96532A038FAE009B2226 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,6 +85,7 @@
 		B25A96542A038FAE009B2226 /* SilverSprout_Demo */ = {
 			isa = PBXGroup;
 			children = (
+				B25A96772A0411D3009B2226 /* SilverSprout-Demo-Info.plist */,
 				B25A96552A038FAE009B2226 /* SilverSprout_DemoApp.swift */,
 				B25A96572A038FAE009B2226 /* ContentView.swift */,
 				B25A96592A038FB0009B2226 /* Assets.xcassets */,
@@ -125,7 +160,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B25A96762A040FEA009B2226 /* Ubuntu-Regular.ttf in Resources */,
 				B25A965D2A038FB0009B2226 /* Preview Assets.xcassets in Resources */,
+				B25AE3FA2A0E5169006D311C /* GoogleService-Info.plist in Resources */,
+				B2C0E0152A04FBE900336499 /* Rokkitt-Regular.ttf in Resources */,
 				B25A965A2A038FB0009B2226 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,7 +176,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				B25A96582A038FAE009B2226 /* ContentView.swift in Sources */,
+				B262519F2A0550ED00015DE1 /* CalculateWateringDays.swift in Sources */,
+				B25A96702A039E47009B2226 /* Profile.swift in Sources */,
 				B25A96562A038FAE009B2226 /* SilverSprout_DemoApp.swift in Sources */,
+				B25A966C2A039C08009B2226 /* SetUp.swift in Sources */,
+				B25A96722A03B4A1009B2226 /* AddStation.swift in Sources */,
+				B29296122A11FCC7009AB96C /* ModeManual.swift in Sources */,
+				B25A966E2A039D93009B2226 /* HomePage.swift in Sources */,
+				B22674F52A07B72B00DC3742 /* CheckUser.swift in Sources */,
+				B29296102A11FCBD009AB96C /* ModeRoutine.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -195,7 +241,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -249,7 +295,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -267,19 +313,24 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SilverSprout_Demo/Preview Content\"";
+				DEVELOPMENT_TEAM = 89L8794BVX;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "SilverSprout-Demo-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = AquaFlow;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "edu.curtin.comp2010.danielduong.SilverSprout-Demo";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.curtin.danielduong.SilverSprout-AquaFlow-Demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -295,19 +346,24 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SilverSprout_Demo/Preview Content\"";
+				DEVELOPMENT_TEAM = 89L8794BVX;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "SilverSprout-Demo-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = AquaFlow;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "edu.curtin.comp2010.danielduong.SilverSprout-Demo";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.curtin.danielduong.SilverSprout-AquaFlow-Demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
